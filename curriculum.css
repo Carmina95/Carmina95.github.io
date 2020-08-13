@@ -1,13 +1,21 @@
 
 head {
+    background-color: black;
+    text-decoration-color: white;
     text-align: center;
+    position: relative;
+    padding: 6px;
+	padding-left: 10px;
+	padding-right: 10px;
+    border-radius: 3px;
+    font-family: arial;
 
 }
 
 body { 
     width: 75%;
     height: 100%;
-    padding: 5;
+    padding: 20;
     margin-left: 25px;
     margin-right: 25px;
     text-align: center;
