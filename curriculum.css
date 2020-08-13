@@ -14,7 +14,7 @@ body {
 }
 
 img {
-    width: 936;
-    height: 416;
-
+    width: 20%; 
+    height: 20%; 
+    object-fit: contain; 
 }
