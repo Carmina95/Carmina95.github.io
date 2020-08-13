@@ -4,7 +4,8 @@ header {
     color: white;
     justify-content: center;
     text-align: center;
-
+    font-size: 18px;
+    font-family: Arial;
 }
 
 
@@ -15,6 +16,7 @@ body {
     justify-content: center;
     background-color: white;
     color: black;
+    font-size: 12px;
     
 }
 
