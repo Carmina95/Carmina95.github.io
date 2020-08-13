@@ -25,3 +25,10 @@ img {
    border: 1px solid black;
     float: right;
 }
+
+footer {
+    background-color: black;
+    color: white;
+    justify-content: center;
+    text-align: center;
+}
