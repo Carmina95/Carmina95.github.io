@@ -16,7 +16,8 @@ body {
     justify-content: center;
     background-color: white;
     color: black;
-    
+    justify-content: center;
+    text-align: center;
     font-family: Arial;
     
 }
