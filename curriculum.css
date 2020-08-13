@@ -1,23 +1,28 @@
 
 header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    position: relative;
+    padding: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+    border-radius: 10px;
+    font-family: arial;
+
+}
+
+
+body { 
     padding: 0px;
     margin-left: 12.5%;
     margin-right: 12.5%;
     justify-content: center;
     background-color: white;
     color: black;
-
-}
-
-body { 
-    width: 75%;
-    height: 100%;
-    padding: 20;
-    margin-left: 12,5%;
-    margin-right: 12,5%;
-    text-align: center;
     
 }
+
 
 img {
     width: 561,6px;
