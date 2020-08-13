@@ -1,6 +1,7 @@
 
 head {
     text-align: center;
+
 }
 
 body { 
@@ -10,4 +11,10 @@ body {
     margin: 0;
     text-align: center;
     
+}
+
+img {
+    width: 936;
+    height: 416;
+
 }
