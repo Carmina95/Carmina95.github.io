@@ -2,13 +2,8 @@
 header {
     background-color: black;
     color: white;
+    justify-content: center;
     text-align: center;
-    position: relative;
-    padding: 10px;
-	padding-left: 15px;
-	padding-right: 15px;
-    border-radius: 10px;
-    font-family: arial;
 
 }
 
