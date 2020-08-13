@@ -15,9 +15,8 @@ body {
 }
 
 img {
-    width: 936px;
-    height: 416px;
+    width: 416px;
+    height: 936px;
    border: 2px solid black;
     float: right;
-     width: 250px;
 }
