@@ -23,8 +23,8 @@ body {
 }
 
 img {
-    width: 416px;
-    height: 936px;
+    width: 936px;
+    height: 416px;
    border: 1px solid black;
     float: right;
 }
